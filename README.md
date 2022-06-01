@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @szeming23
 - 👀 I’m interested in ... python scripting, r, machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... python codes
+- 🌱 I’m currently learning ... web development
+- 💞️ I’m looking to collaborate on ... impactful python codes
 - 📫 How to reach me ...
 
 <!---
